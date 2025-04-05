@@ -4,11 +4,18 @@
 <br>🌱 I'm currently learning advanced tools like React and Redux Toolkit.  
 <br>💬 Ask me about full-stack development, MongoDB, React, or chatbot integrations.  
 <br>🏆 **Achievements**  
-- **ATF Scholar Stage-2 Qualified**  
+- 🏅 **ATF Scholar Stage-2 Qualified**  
   Participated in the prestigious and highly selective scholarship program hosted by AlgoUniversity,  
-  securing a position in the top 2% among 20,000+ exceptionally talented and competitive participants.  
-- **Flipkart Grid 6.0 Robotics Challenge Stage-1 Qualifier**  
-  Successfully qualified Stage-1, competing against over 20,000 participants.  
+  securing a position in the **top 2% among 20,000+** exceptionally talented and competitive participants.
+- 🤖 **Flipkart Grid 6.0 Robotics Challenge Stage-1 Qualifier**  
+  Successfully cleared Stage-1, competing against **20,000+ participants** in a national-level robotics challenge.
+- 📊 **LeetCode: 1700+ Rating | 350+ Problems Solved**  
+  Gained a strong command over Data Structures and Algorithms through consistent problem-solving on LeetCode.
+
+- 🧠 **HackerRank Problem Setter**  
+  Created and tested original DSA problems for a coding contest with **1500+ participants** on HackerRank.
+
+📄 [**View My Resume**](https://drive.google.com/file/d/1tDra5e2a-6vHoP48NDDPgHEnTMB3mZb0/view?usp=sharing)
 
 
 
